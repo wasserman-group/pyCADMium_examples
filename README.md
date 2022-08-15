@@ -13,8 +13,13 @@ conda install -c conda-forge matplotlib
 
 Proceed to explore each of the directories based on your interests. Each Notebook performs a *single* task, and thus, they are all self-contained. 
 
-For any questions please email us at:
+For any questions, comments or suggestions please email us at:
 awasser@purdue.edu
+Or open an issue and/or pull-request. All contributions are welcomed :)
+
+
+#### Community guidelines:
+This repository follows the same guidelines as pyCADMium. Read about them [in the main repository](https://github.com/wasserman-group/pyCADMium)
 
 #### Acknowledgements
 *Victor H. Chavez* was supported by a fellowship from The Molecular Sciences Software Institute under NSF grant OAC-1547580.  
