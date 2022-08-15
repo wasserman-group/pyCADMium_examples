@@ -1,7 +1,7 @@
 # CADMium_examples
 
 Complementary Repository to [pyCADMium](https://github.com/wasserman-group/pyCADMium). A prolate spheroidal grid-based code for embedding Kohn-Sham Density Functional Theory Calculations. 
-General Documentation can be found [here](https://github.com/wasserman-group/pyCADMium_examples). 
+General Documentation can be found [here](wasserman-group.github.io/pycadmium/). 
 
 To use the examples, clone the repository and install the additional requirements. 
 
